@@ -1,0 +1,13 @@
+:root {
+    --accent-color:#FA4A0C ;
+    --text-color: #252B42;
+    --main-color: #FFFFFF;
+    --text-second-color: #737373;
+    --hero-text-color: #F6F6F6;
+    --copyrite-color: #5C5C5C;
+}
+
+:root {
+    --font-primary: 'Poppins', sans-serif;
+    --font-secondary: 'Montserrat', sans-serif;
+} 
