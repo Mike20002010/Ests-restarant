@@ -8,6 +8,17 @@
 }
 
 :root {
-    --font-primary: 'Poppins', sans-serif;
-    --font-secondary: 'Montserrat', sans-serif;
+    --font-main: 'Montserrat', sans-serif;
+    --font-second: 'Poppins', sans-serif;
+    --font-third: 'Roboto', sans-serif;
 } 
+
+body {
+font-family: var(--font-main);
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing:0.2px;
+}
+
+===========================================================================/* Стилі до Хєдєра */=============================================================================
