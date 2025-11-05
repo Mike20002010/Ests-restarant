@@ -43,10 +43,16 @@ letter-spacing:0.2px;
 }
 
 .app {
-    padding-bottom: 43px;
+    padding-top: 56px;
+    padding-bottom: 190px;
 }
 
 .order {
-    padding-top: 131px;
+    padding-top: 141px;
     padding-bottom: 130px;
+}
+
+.footer {
+padding-top: 78px;
+padding-bottom: 27px;
 }
